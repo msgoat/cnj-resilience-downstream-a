@@ -9,7 +9,7 @@ The behaviour of the service can be controlled via a
 which allows you to apply abnormal behaviour to each invocation.
 
 ## Status
-![Build status](https://drone.cloudtrain.msgoat.eu/api/badges/msgoat/cnj-resilience-downstream-a/status.svg)
+![Build status](https://codebuild.eu-west-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiVy9sU2JuekZEeFRrK1cvZFBkVHJ1WjhTMExiSjJsdDNnSEVUUi90eXpUQ2c3dXF4bk8zSTQ1Zlg4TEdXRGVvVVljNHhtUDBFcjdpa3Nyb1NvcXQwVlg4PSIsIml2UGFyYW1ldGVyU3BlYyI6IlJVWXVmSTg4UG9XQ01GckEiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
 
 ## Release information
 
