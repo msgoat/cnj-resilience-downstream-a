@@ -14,3 +14,13 @@ which allows you to apply abnormal behaviour to each invocation.
 ## Release information
 
 Check [changelog](changelog.md) for latest version and release information.
+
+## HOW-TO build this application locally
+
+If all prerequisites are met, just run the following Maven command in the project folder:
+
+```shell 
+mvn clean verify -P pre-commit-stage
+```
+
+Build results: a Docker image containing the showcase application.
